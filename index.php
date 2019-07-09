@@ -8,6 +8,7 @@
 
 /**
  * Tells WordPress to load the WordPress theme and output it.
+ * Triggering a push webhook here
  *
  * @var bool
  */
